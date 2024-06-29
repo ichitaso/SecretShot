@@ -1,9 +1,12 @@
 Package: com.eamontracey.secretshot
 Name: SecretShot
-Version: 1.1
+Version: 1.1.1
 Architecture: iphoneos-arm
 Description: Block Snapchat screenshot and screen recording detection
-Maintainer: Eamon Tracey
+Maintainer: ichitaso
 Author: Eamon Tracey
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Depends: mobilesubstrate, preferenceloader
+Depiction: https://cydia.ichitaso.com/depiction/secretshot.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/secretshot.json
+Icon: https://raw.githubusercontent.com/ichitaso/SecretShot/main/SecretShotPreferences/Resources/icon%403x.png
